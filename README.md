@@ -1,3 +1,2 @@
 # CV
-My CV will go here
-
+This is my awesome CV. It is prefect. 
